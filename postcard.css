@@ -1,0 +1,66 @@
+body {
+	margin: 0px;
+}
+
+#canvas {
+	background: url('B1.jpg') no-repeat;
+	background-size: cover;
+	width: 100vw;
+	height: 100vh;
+}
+
+.profile-pic {
+	position: absolute;
+	top: 6em;
+	left: 39em;
+	width: 12em;
+	border-radius: 200px;
+	box-shadow: 7px 7px 27px #000000;
+}
+
+
+.text {
+	position: absolute;
+	top: 6em;
+	left: 4em;
+	width: 15em;
+	height: 10em;
+	text-align: center;
+	color: #FF0000;
+	font-style: oblique;
+	font-size: 30px;
+
+
+}
+
+
+.title {
+	position: absolute;
+	top: 4em;
+	left: 26em;
+	width: 10em;
+	color: #CC3300;
+	font: italic bold 36px Georgia, Serif;
+	text-shadow: 2px 1px 0 #000000;
+}
+
+.fb-icon {
+	position: absolute;
+	top: 27em;
+	left: 50em;
+	width: 8em;
+}
+
+.L-icon{
+	position: absolute;
+	top: 26.5em;
+	left: 59em;
+	width: 10em;
+}
+
+.cvv{
+	position: absolute;
+	top: 12em;
+	left: 10em;
+	width: 25em;
+}
